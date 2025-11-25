@@ -17,4 +17,4 @@ Run:
 
 1. Create `.env` with `MONGO_URI` or use local MongoDB (default: `mongodb://127.0.0.1:27017/tasktracker`).
 2. `npm install` in `inventory-backend`.
-3. `npm run dev` (or `npm start`).
+3. `npm run dev` (or `npm start`). 
