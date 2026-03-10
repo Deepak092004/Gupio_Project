@@ -9,7 +9,6 @@ Endpoints:
 - `GET /api/tasks/:id` - get task
 - `PATCH /api/tasks/:id` - update task fields
 - `DELETE /api/tasks/:id` - delete task
-
 - `GET /api/users` - list users
 - `POST /api/users` - create user { name, email }
 
